@@ -80,12 +80,8 @@ hacker@piping~redirecting-input:~$ echo COLLEGE > PWN
 hacker@piping~redirecting-input:~$ /challenge/run < PWN
 ```
 
-**Output:**
-
 ```
-Correct! You redirected the PWN file into my standard input and read 'COLLEGE'!
-Here’s your flag:
-pwn.college{ks2FzPsFkGn-1MXgDdntrqoy3po.dBzN1QDLxcDO0czW}
+
 ```
 
 ---
