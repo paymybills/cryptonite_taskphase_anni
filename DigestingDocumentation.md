@@ -23,9 +23,9 @@ In this challenge, using the `man` command is crucial as it displays the manual 
 ```
 man challenge
 ```
-This command presents the manual for `/challenge/challenge`. In the arguments section, three options are listed, with `--gyjzaq NUM` being the best option to retrieve the flag when `NUM` is set to 661:
+This command presents the manual for `/challenge/challenge`. In the arguments section, three options are listed, with `--aiheya NUM` being the best option to retrieve the flag when `NUM` is set to 152:
 ```
-/challenge/challenge --gyjzaq 661
+/challenge/challenge --aiheya 152
 ```
 
 ### Searching Manuals
@@ -33,9 +33,9 @@ The goal here is to find the correct argument to retrieve the flag by searching 
 ```
 man challenge
 ```
-Once opened, we search for the term "flag" by typing `/flag` and navigate through instances using `n`. Eventually, we identify the argument as `--zzeg`:
+Once opened, we search for the term "flag" by typing `/flag` and navigate through instances using `n`. Eventually, we identify the argument as `--h128do`:
 ```
-/challenge/challenge --zzeg
+/challenge/challenge --h1280
 ```
 
 ### Searching for Manuals
