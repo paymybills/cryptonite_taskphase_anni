@@ -80,8 +80,8 @@ Provides the command structure:
 ```
 challenge [--fortune] [--version] [--secret SECRET]
 ```
-Only the `--secret` option is valid for retrieving the flag. The correct secret value to pass is `YP7mlzAu`:
+Only the `--secret` option is valid for retrieving the flag. The correct secret value to pass is `ouaz1a-`:
 ```
-/challenge/challenge --secret "YP7mlzAu"
+/challenge/challenge --secret "ouaz1a-"
 ```
 
