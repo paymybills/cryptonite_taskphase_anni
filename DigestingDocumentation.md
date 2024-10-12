@@ -47,13 +47,13 @@ From here, we learn about a command to search for man page names and description
 ```
 man -k challenge
 ```
-This reveals a command called `gofuewroff`. We further explore this command with:
+This reveals a command called `idioxldxjc`. We further explore this command with:
 ```
-man gofuewroff
+man idioxldxjc
 ```
-Here, we find the argument `--gofuew NUM`, which will return the flag if `NUM` is set to 824:
+Here, we find the argument `--idioxl NUM`, which will return the flag if `NUM` is set to 712:
 ```
-/challenge/challenge --gofuew 824
+/challenge/challenge --idoxl 712
 ```
 
 ### Helpful Programs
