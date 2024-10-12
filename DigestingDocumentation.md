@@ -68,7 +68,7 @@ Thus, we can run:
 To see all available commands, and then use:
 ```
 /challenge/challenge --print-value
-/challenge/challenge -g 554
+/challenge/challenge -g 440
 ```
 
 ### Help for Builtins
