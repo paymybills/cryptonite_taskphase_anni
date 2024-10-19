@@ -48,9 +48,11 @@ hacker@piping~appending-output:~$ cat /home/hacker/the-flag
 
 ```
 This is the first half:
-pwn.college{U7Wg_uVwogGNsasDH8KuCJzHoGG.ddDM5QDLxcDO0czW}
+pwn.college{s2nyrsCpPGtMt0ztux49ZFWJ75l.ddDM5QDLxEjM2czW}
 that is the second half
 ```
+Another easier method would be just to exploit how VSCode works, so you could go to /home/hacker/the-flag and then open the file in editor.
+![image](https://github.com/user-attachments/assets/b02bc5ba-5305-4f26-8c61-15975c513ee4)
 
 ---
 
