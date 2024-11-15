@@ -1,4 +1,4 @@
-# WebEx - Inspect Element
+# WebEx - Inspect HTML
 
 **Objective**: Extract the hidden flag from the webpage source code.
 
