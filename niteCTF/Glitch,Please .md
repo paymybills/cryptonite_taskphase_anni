@@ -93,5 +93,3 @@ sorted_df = filtered_df.sort_values(by=['PlayerScore'], ascending=False)
 - **Flag**: `nite{4_R34L_0DD84LL}`
 
 ---
-
-This systematic approach highlights the technical steps and decisions made to solve the challenge effectively.
