@@ -25,7 +25,7 @@ where \( b \) is Bob's private key.
 
 ### 3. Generating My Public Key as the Attacker (Man-in-the-Middle)
 
-As the attacker (Mallory), I now generate my own private key \( b_{\text{mine}} \). In this case, I choose \( b_{\text{mine}} = 3 \) and compute my public key \( B_{\text{mine}} \) as:
+As the attacker, I now generate my own private key \( b_{\text{mine}} \). In this case, I choose \( b_{\text{mine}} = 3 \) and compute my public key \( B_{\text{mine}} \) as:
 \[
 B_{\text{mine}} = g^{b_{\text{mine}}} \mod p = 2^3 \mod p = 8
 \]
